@@ -6,7 +6,7 @@ import cv2
 import tensorflow as tf
 
 if 'model' not in st.session_state:
-    st.session_state['model'] = tf.keras.models.load_model('number_predictor.keras')
+    st.session_state['model'] = tf.keras.models.load_model('streamlit-app/number_predictor.keras')
 
 st.title('Number Prediction')
 
