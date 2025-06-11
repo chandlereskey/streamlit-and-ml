@@ -1,6 +1,8 @@
 # streamlit-and-ml
 Streamlit application. Todo page and Number Prediction page
 
+The purpose of this project was to learn streamlit at a high level and also implement a ML model and use it in a streamlit application.
+
 
 Steps to run the streamlit app: 
 
