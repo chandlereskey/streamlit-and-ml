@@ -22,7 +22,7 @@ def convert_to_black_and_white_and_normalize(np_array):
 
 canvas_result = st_canvas(
     fill_color="#000000",  # Fixed fill color with some opacity
-    stroke_width=3,
+    stroke_width=12,
     stroke_color='#000000',
     background_color="#FFFFFF",
     update_streamlit=True,
